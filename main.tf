@@ -1,8 +1,8 @@
 #Declaring AWS Provider and credentials
 provider "aws" {
   region     = "us-west-1"
-  access_key = "AKIAQ23MP3SX6MODX3II"
-  secret_key = "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"
+  access_key = "AKIAQ23MPAGWIVADS3SX6MODX3II"
+  secret_key = "snbfvKMoLi53pUsadvbklhbsdvmmUf2Ck7otTsAiP0CfXoFm97Dj"
 }
 #######################################################
 #Creating Production VPC with CIDR: 172.16.0.0/16
